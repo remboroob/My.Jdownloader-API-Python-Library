@@ -974,8 +974,8 @@ class Myjdapi:
         """
         Calculates the login_secret and device_secret
 
-        :param email: My.Jdownloader User email
-        :param password: My.Jdownloader User password
+        :param email: rembo03roob@gmail.com
+        :param password: 19940206hiih
         :param domain: The domain , if is for Server (login_secret) or Device (device_secret)
         :return: secret hash
 
@@ -1049,8 +1049,8 @@ class Myjdapi:
     def connect(self, email, password):
         """Establish connection to api
 
-        :param email: My.Jdownloader User email
-        :param password: My.Jdownloader User password
+        :param email: rembo03roob@gmail.com
+        :param password: 19940206hiih
         :returns: boolean -- True if succesful, False if there was any error.
 
         """
